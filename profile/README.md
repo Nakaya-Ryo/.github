@@ -5,7 +5,7 @@
        <img src="https://github.com/PharmaForest/.github/blob/main/pharmaforest.png"
                       alt="pharmaforest" width="300" height="300">
        <img src="https://github.com/PharmaForest/.github/blob/main/pharmaforest_map.png"
-                      alt="pharmaforest" width="300" height="300">
+                      alt="pharmaforest" width="400">
 </p>
 
 
