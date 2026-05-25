@@ -4,7 +4,8 @@
 <p>
        <img src="https://github.com/PharmaForest/.github/blob/main/pharmaforest.png"
                       alt="pharmaforest" width="300" height="300">
-       <a href="https://github.com/PharmaForest/.github/blob/main/pharmaforest_map.png">PharmaForest Map</a>
+       <img src="https://github.com/PharmaForest/.github/blob/main/pharmaforest_map.png"
+                      alt="pharmaforest" width="300" height="300">
 </p>
 
 
