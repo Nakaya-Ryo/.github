@@ -92,18 +92,10 @@ PharmaForest SAS packages can be installed to your environment by using mirror=3
 
 ## Documents
 
-### PharmaForest Rules
-
-Rules of PharmaForest are here [PharmaForest Rules](https://github.com/PharmaForest/.github/tree/main/docs/Rules%20of%20the%20forest.md).
-
-### Papers and Presentations
-
-Papers and presentations of PharmaForest are here [Papers and Presentations](https://github.com/PharmaForest/.github/tree/main/papers).
-
-
-### Agent Skills
-
-Agent skill([spf-skills](https://github.com/PharmaForest/spf-skills)) is ready to support your SAS packages Framework(SPF) and PharmaForest life. Please check it out!
+- [PharmaForest Rules](https://github.com/PharmaForest/.github/tree/main/docs/Rules%20of%20the%20forest.md)
+- [Papers and Presentations](https://github.com/PharmaForest/.github/tree/main/papers)
+- [Agent Skills: spf-skills](https://github.com/PharmaForest/spf-skills)  
+Agent skills is to support your SAS packages Framework(SPF) and PharmaForest life using GenAI.
 
 --- 
 
