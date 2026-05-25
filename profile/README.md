@@ -1,46 +1,40 @@
 # PharmaForest (we have already 45 packages🎉🎉)
-A collaborative repository of SAS packages for pharmaceutical industry, powered by PHUSE Japan OST (Open Source Technology) WG members—Hiroki Yamanobe, Yutaka Morioka, and Ryo Nakaya—showcasing the list of available packages below. **Click the QR code** to visit gallery page.       
+**A collaborative repository of SAS packages for pharmaceutical industry**, powered by PHUSE Data Visualization & Open-Source Technology(DVOST) Working Group.       
   <img src="https://github.com/PharmaForest/.github/blob/main/pharmaforest.png"
        alt="pharmaforest" width="300" height="300">
-<a href="https://pharmaforest.github.io/">
-  <img src="https://github.com/PharmaForest/.github/blob/main/QR_pharmaforest.png"
-       alt="QR" width="150" height="150">
-PharmaForest Gallery  
-</a>
 
+
+For more details about PharmaForest and the DVOST WG activity, please visit the PHUSE page: [PharmaForest: A Collaborative Repository of SAS Packages for Pharmaceutical Industry](https://advance.hub.phuse.global/wiki/spaces/WEL/pages/406355969/PharmaForest+A+Collaborative+Repository+of+SAS+Packages+for+Pharmaceutical+Industry)
 
 **-Goal-**  
-Through SAS Packages, we want to actively encourage sharing of SAS know‑how that has often stayed within individuals. By doing this, we aim to build up collective knowledge, boost productivity, ensure quality through standardization, and energize our community. 
+Through SAS Packages, we want to **actively encourage sharing of SAS know‑how** that has often stayed within individuals. By doing this, we aim to build up collective knowledge, boost productivity, ensure quality through standardization, and energize our community. 
 
 **-Priority-**  
-Our first priority is to share openly—and get others to share as well—so that more people can join in. On that basis, we’ll work on improving quality, driving standardization, and creating long‑term value.  
+Our first priority is to **share openly**—and get others to share as well—so that more people can join in. On that basis, we’ll work on **improving quality, driving standardization, and creating long‑term value**.  
 
+# Table of Contents
+- [Packages](#packages)  
+       - [Gallery Page](#gallery-page)  
+       - [Ecosystem Map](#ecosystem-map)  
+       - [GPT Navigators](#gpt-navigators)  
+       - [Featured Packages](#featured-packages)  
+- [Documents](#documents)
+- [How to join PharmaForest](#join-our-pharmaforest--collaborators-welcome)
+- [What is SAS Packages? / How to use SAS Packages? (quick start)](#what-is-sas-packages)
 ---
 
 ## Packages
-| # | Package | # | Package | # | Package | # | Package | 
-|---|---------|---|---------|---|---------|---|---------|
-| 1 | [OncoPlotter](https://github.com/PharmaForest/OncoPlotter) (PharmaForest original package) | 16 | [maxims4sas](https://github.com/PharmaForest/maxims4sas) (PharmaForest original package) | 31 | [basketMiningKit](https://github.com/PharmaForest/basketMiningKit) | 46 | [SASDoGs](https://github.com/PharmaForest/SASDoGs)|
-| 2 | [sashash](https://github.com/PharmaForest/sashash) | 17 | [laglead](https://github.com/PharmaForest/laglead) | 32 | [datacut_sas](https://github.com/PharmaForest/datacut_sas) | 47 | |
-| 3 | [sas_dataset_json](https://github.com/PharmaForest/sas_dataset_json) | 18 | [ctcae5_grader](https://github.com/PharmaForest/ctcae5_grader) | 33 | [retro_spell_check](https://github.com/PharmaForest/retro_spell_check) | 48 | |
-| 4 | [SASPACer](https://github.com/PharmaForest/SASPACer) | 19 | [love_matrix](https://github.com/PharmaForest/love_matrix) | 34 | [sas_dataset_toon](https://github.com/PharmaForest/sas_dataset_toon) | 49 | |
-| 5 | [misc](https://github.com/PharmaForest/misc) (PharmaForest original package) | 20 | [SASPACerShiny (R Package)](https://github.com/PharmaForest/SASPACerShiny) | 35 | [defensivechk](https://github.com/PharmaForest/defensivechk) | 50 | |
-| 6 | [SAS FAKER](https://github.com/PharmaForest/sas_faker) | 21 | [change_tracer_dog](https://github.com/PharmaForest/change_tracer_dog) | 36 | [GetCDISCCodelist](https://github.com/PharmaForest/GetCDISCCodelist) | 51 | |
-| 7 | [SASLogChecker](https://github.com/PharmaForest/saslogchecker) | 22 | [yaml_writer](https://github.com/PharmaForest/yaml_writer) | 37 |[kpi_viz_toolbox](https://github.com/PharmaForest/kpi_viz_toolbox)| 52 | |
-| 8 | [sas_compare](https://github.com/PharmaForest/sas_compare) | 23 | [Adamski](https://github.com/PharmaForest/adamski) (PharmaForest original package) | 38 |[outlier_screening](https://github.com/PharmaForest/outlier_screening)| 53 | |
-| 9 | [rtfCreator](https://github.com/PharmaForest/rtfcreator) | 24 | [RWDExpress](https://github.com/PharmaForest/RWDExpress) | 39 | [sARDen](https://github.com/PharmaForest/sARDen)| 54 | |
-| 10 | [shutter_chance](https://github.com/PharmaForest/shutter_chance) | 25 | [freqsum](https://github.com/PharmaForest/freqsum)  | 40 |[sARDenX](https://github.com/PharmaForest/sARDenX)| 55 | |
-| 11 | [devil](https://github.com/PharmaForest/devil) (PharmaForest original package) | 26 | [qc_cat_referee](https://github.com/PharmaForest/qc_cat_referee) | 41 |[sARDenMTS](https://github.com/PharmaForest/sARDenMTS)| 56 | |
-| 12 | [xattr_kit](https://github.com/PharmaForest/xattr_kit) | 27 | [SASToolbox](https://github.com/PharmaForest/SASToolbox)  | 42 |[corr](https://github.com/PharmaForest/corr)| 57 | |
-| 13 | [cloak](https://github.com/PharmaForest/cloak) | 28 | [trial_flow](https://github.com/PharmaForest/trial_flow)  | 43 |[sas2typst_report](https://github.com/PharmaForest/sas2typst_report)| 58 | |
-| 14 | [vis_review_kit](https://github.com/PharmaForest/vis_review_kit) | 29 | [valivali](https://github.com/PharmaForest/valivali) (PharmaForest original package) | 44 |[dataset_maker](https://github.com/PharmaForest/dataset_maker)| 59 | |
-| 15 | [odstable_layoutshowcase](https://github.com/PharmaForest/odstable_layoutshowcase) | 30 | [mergex](https://github.com/PharmaForest/mergex) | 45 | [sashighlight](https://github.com/PharmaForest/sashighlight) | 60 | |
+### Gallery Page
 
+The PharmaForest Gallery lets you browse and search detailed information for each package: [https://pharmaforest.github.io/](https://pharmaforest.github.io/)
 
 <a href="https://pharmaforest.github.io/">
-  <img src="https://github.com/PharmaForest/.github/blob/main/pharmaforest_map.png"
-       alt="pharmaforest_map" width="600">
+  <img src="https://github.com/PharmaForest/.github/blob/main/QR_pharmaforest.png"
+       alt="QR" width="150" height="150">
 </a>
+
+### Featured Packages
+
 
 If you are greedy who wants to install all packages, see below for install all packages of PharmaForest.
 ~~~sas
@@ -62,6 +56,7 @@ PharmaForest repository can omit sourcePath= parameter(sometime it's lengthy) by
 Papers and presentations of PharmaForest are here [Papers and Presentations](https://github.com/PharmaForest/.github/tree/main/papers).
 
 ---
+### GPT Navigators
 <img src="https://github.com/PharmaForest/.github/blob/main/forest_navigator_long.png" 
        alt="Dr.Forest" height="100" align="left" style="margin-right:10px;">
 **Master Navigator(Beta version)** [Dr. Forest link](https://chatgpt.com/g/g-699610471260819196be8f76e324dafa-dr-forest)  
@@ -95,6 +90,8 @@ Agent skill is ready to support your SAS packages Framework(SPF) and PharmaFores
 --- 
 
 
+
+### Ecosystem Map
 
 <img src="https://github.com/PharmaForest/.github/blob/main/ecosystem.png" alt="ecosystem_map" width="800">   
 
