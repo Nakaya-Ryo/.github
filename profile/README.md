@@ -1,8 +1,11 @@
 # PharmaForest (we have already 45 packages🎉🎉)
 
 **A collaborative repository of SAS packages for pharmaceutical industry**, powered by PHUSE Data Visualization & Open-Source Technology(DVOST) Working Group.       
-  <img src="https://github.com/PharmaForest/.github/blob/main/pharmaforest.png"
-       alt="pharmaforest" width="300" height="300">
+<p>
+       <img src="https://github.com/PharmaForest/.github/blob/main/pharmaforest.png"
+                      alt="pharmaforest" width="300" height="300">
+       <a href="https://github.com/PharmaForest/.github/blob/main/pharmaforest_map.png">PharmaForest Map</a>
+</p>
 
 
 For more details about PharmaForest and the DVOST WG activity, please visit the PHUSE page:  
