@@ -1,10 +1,12 @@
 # PharmaForest (we have already 45 packages🎉🎉)
+
 **A collaborative repository of SAS packages for pharmaceutical industry**, powered by PHUSE Data Visualization & Open-Source Technology(DVOST) Working Group.       
   <img src="https://github.com/PharmaForest/.github/blob/main/pharmaforest.png"
        alt="pharmaforest" width="300" height="300">
 
 
-For more details about PharmaForest and the DVOST WG activity, please visit the PHUSE page: [PharmaForest: A Collaborative Repository of SAS Packages for Pharmaceutical Industry](https://advance.hub.phuse.global/wiki/spaces/WEL/pages/406355969/PharmaForest+A+Collaborative+Repository+of+SAS+Packages+for+Pharmaceutical+Industry)
+For more details about PharmaForest and the DVOST WG activity, please visit the PHUSE page:  
+[PharmaForest: A Collaborative Repository of SAS Packages for Pharmaceutical Industry](https://advance.hub.phuse.global/wiki/spaces/WEL/pages/406355969/PharmaForest+A+Collaborative+Repository+of+SAS+Packages+for+Pharmaceutical+Industry)
 
 **-Goal-**  
 Through SAS Packages, we want to **actively encourage sharing of SAS know‑how** that has often stayed within individuals. By doing this, we aim to build up collective knowledge, boost productivity, ensure quality through standardization, and energize our community. 
@@ -13,17 +15,21 @@ Through SAS Packages, we want to **actively encourage sharing of SAS know‑how*
 Our first priority is to **share openly**—and get others to share as well—so that more people can join in. On that basis, we’ll work on **improving quality, driving standardization, and creating long‑term value**.  
 
 # Table of Contents
+
 - [Packages](#packages)  
        - [Gallery Page](#gallery-page)  
        - [Ecosystem Map](#ecosystem-map)  
        - [GPT Navigators](#gpt-navigators)  
-       - [Featured Packages](#featured-packages)  
+       - [How to install packages](#how-to-install-packages)  
 - [Documents](#documents)
 - [How to join PharmaForest](#join-our-pharmaforest--collaborators-welcome)
 - [What is SAS Packages? / How to use SAS Packages? (quick start)](#what-is-sas-packages)
 ---
 
 ## Packages
+
+PharmaForest already provides a wide range of SAS packages, and we will continue contributing even more packages over time. **To help users reach the package they need quickly, we provide several navigation options and discovery paths**, and we are committed to continuously improving the user experience.
+
 ### Gallery Page
 
 The PharmaForest Gallery lets you browse and search detailed information for each package: [https://pharmaforest.github.io/](https://pharmaforest.github.io/)
@@ -33,30 +39,16 @@ The PharmaForest Gallery lets you browse and search detailed information for eac
        alt="QR" width="150" height="150">
 </a>
 
-### Featured Packages
+### Ecosystem Map
 
+Package ecosystem map summarizes overview and category of packages in PharmaForest.   
 
-If you are greedy who wants to install all packages, see below for install all packages of PharmaForest.
-~~~sas
-%installPackage(
-	OncoPlotter sashash sas_dataset_json SASPACer misc sas_faker saslogchecker sas_compare rtfcreator shutter_chance devil xattr_kit
-	cloak vis_review_kit odstable_layoutshowcase maxims4sas laglead ctcae5_grader love_matrix change_tracer_dog yaml_writer Adamski RWDExpress
-	freqsum qc_cat_referee SASToolbox trial_flow valivali mergex basketMiningKit datacut_sas retro_spell_check sas_dataset_toon defensivechk GetCDISCCodelist kpi_viz_toolbox outlier_screening
-	sARDen sARDenX sARDenMTS corr sas2typst_report dataset_maker sashighlight SASDoGs,
-	mirror=pharmaforest
-)
-~~~  
+<img src="https://github.com/PharmaForest/.github/blob/main/ecosystem.png" alt="ecosystem_map" width="800">   
 
-PharmaForest repository can omit sourcePath= parameter(sometime it's lengthy) by using mirror=3 or mirror=PharmaForest in %installPackage() of SPF thanks to Bart.
-~~~sas
-%installPackage(OncoPlotter, mirror=PharmaForest)
-%installPackage(OncoPlotter, mirror=3)
-~~~
-
-Papers and presentations of PharmaForest are here [Papers and Presentations](https://github.com/PharmaForest/.github/tree/main/papers).
-
----
 ### GPT Navigators
+
+You can use the **PharmaForest Navigators to ask** not only how to use individual packages, but also what packages are available across PharmaForest.
+
 <img src="https://github.com/PharmaForest/.github/blob/main/forest_navigator_long.png" 
        alt="Dr.Forest" height="100" align="left" style="margin-right:10px;">
 **Master Navigator(Beta version)** [Dr. Forest link](https://chatgpt.com/g/g-699610471260819196be8f76e324dafa-dr-forest)  
@@ -83,17 +75,31 @@ SASUKE is a support navigator of PharmaForest. He is a GPT assistant ninja who c
 SAS Package Lady (Oba-chan) is a warm diner-auntie GPT persona who helps you create SAS packages. Please understand that she is not speaking on behalf of our organization. You need to sign up to ChatGPT (at least a free user account) to talk to her.<br><br>
 
 (2026/2/18: Link to GPT navigators has been changed.)
-  
-**Agent skills([spf-skills](https://github.com/PharmaForest/spf-skills))**  
-Agent skill is ready to support your SAS packages Framework(SPF) and PharmaForest life. Please check it out!
+
+### How to install packages
+
+PharmaForest SAS packages can be installed to your environment by using mirror=3 or mirror=PharmaForest in %installPackage() of SPF thanks to Bart.
+~~~sas
+%installPackage(OncoPlotter, mirror=PharmaForest)
+%installPackage(OncoPlotter, mirror=3)
+~~~
+
+## Documents
+
+### PharmaForest Rules
+
+Rules of PharmaForest are here [PharmaForest Rules](https://github.com/PharmaForest/.github/tree/main/docs/Rules%20of%20the%20forest.md).
+
+### Papers and Presentations
+
+Papers and presentations of PharmaForest are here [Papers and Presentations](https://github.com/PharmaForest/.github/tree/main/papers).
+
+
+### Agent Skills
+
+Agent skill([spf-skills](https://github.com/PharmaForest/spf-skills)) is ready to support your SAS packages Framework(SPF) and PharmaForest life. Please check it out!
 
 --- 
-
-
-
-### Ecosystem Map
-
-<img src="https://github.com/PharmaForest/.github/blob/main/ecosystem.png" alt="ecosystem_map" width="800">   
 
 
 ## Join Our "PharmaForest" – Collaborators Welcome!  
