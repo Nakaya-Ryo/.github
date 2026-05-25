@@ -4,8 +4,10 @@
 <p>
        <img src="https://github.com/PharmaForest/.github/blob/main/pharmaforest.png"
                       alt="pharmaforest" width="300" height="300">
-       <img src="https://github.com/PharmaForest/.github/blob/main/pharmaforest_map_cut.png"
-                      alt="pharmaforest" width="400">
+       <a href="https://pharmaforest.github.io/">
+              <img src="https://github.com/PharmaForest/.github/blob/main/pharmaforest_map_cut.png"
+                             alt="pharmaforest" width="400">
+       </a>
 </p>
 
 
@@ -106,31 +108,20 @@ Agent skill([spf-skills](https://github.com/PharmaForest/spf-skills)) is ready t
 --- 
 
 
-## Join Our "PharmaForest" – Collaborators Welcome!  
+## Join PharmaForest – Collaborators Welcome!  
 We are actively looking for collaborators to join and contribute to our program package. If you're interested in participating in any of the following ways, feel free to get in touch with us!
  
-1. Become a PharmaForest Manager<br>
-Help manage and lead the package alongside the current team.
+1. Join as a Project Member<br>
+If you would like to join as a project member, please complete and submit this form: [https://forms.office.com/r/UVPyB16J2U](https://forms.office.com/r/UVPyB16J2U)
 
-2. Co-develop Original Packages<br>
-Collaborate with us on building new tools such as "OncoPlotter," "misc", and more.
+2. Mirror Your Own Packages or Any Other Collaboration<br>
+If you would like to collaborate with PharmaForest in any ways, please contact one of the members.
 
-3. Mirror Your Own Packages<br>
-Share your packages by hosting mirrors with us.
-
-4. Contribute Macros and Tools to the "Devil Package"<br>
-Add useful macros or functionalities to our "Devil" package to expand its features. "Devil" is a package for casually sharing playful or simple programs.
-
-5. Join as a User<br>
+3. Join as a Package User<br>
 Simply participate in the package as an active user, provide feedback, and stay up to date.
  
 We welcome all levels of involvement. Whether you're a developer, researcher, or just someone interested in what we’re building, we’d love to hear from you!
  
-Contact us if you're interested!
-[Ryo Nakaya](https://www.linkedin.com/in/ryo-nakaya-a93292348/), 
-[Yutaka Morioka](https://www.linkedin.com/in/morioka%E3%80%80%E6%A3%AE%E5%B2%A1-yutaka-%E8%A3%95-5ab910185/), 
-[Hiroki Yamanobe](https://www.linkedin.com/in/hiroki-yamanobe-85a49a361/)
-
 <p align="center">
   <img src="https://github.com/PharmaForest/.github/blob/main/wewantyou.png" alt="wewantyou" width="300">
 </p>
